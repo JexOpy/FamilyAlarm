@@ -1,6 +1,6 @@
 [Tiếng Việt](./privacy-policy.md) | [English](./privacy-policy-en.md)
 
-# Chính sách Bảo mật — Family Alarm
+# Chính sách Bảo mật
 
 **Cập nhật lần cuối:** 17/11/2026
 

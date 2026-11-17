@@ -1,6 +1,6 @@
 [Tiếng Việt](./privacy-policy.md) | [English](./privacy-policy-en.md)
 
-# Privacy Policy — Family Alarm
+# Privacy Policy
 
 **Last updated:** November 17, 2026  
 

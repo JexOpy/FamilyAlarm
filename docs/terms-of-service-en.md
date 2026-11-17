@@ -1,6 +1,6 @@
 [Tiếng Việt](./terms-of-service.md) | [English](./terms-of-service-en.md)
 
-# Terms of Service — Family Alarm
+# Terms of Service
 
 **Last updated:** November 17, 2026  
 

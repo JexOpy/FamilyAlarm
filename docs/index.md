@@ -1,5 +1,3 @@
-# Family Alarm — Tài liệu Pháp lý & Giấy phép
-
 ## Tiếng Việt
 
 - [Điều khoản dịch vụ](./terms-of-service.md)

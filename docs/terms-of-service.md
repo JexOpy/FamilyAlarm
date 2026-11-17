@@ -1,6 +1,6 @@
 [Tiếng Việt](./terms-of-service.md) | [English](./terms-of-service-en.md)
 
-# Điều khoản dịch vụ — Family Alarm
+# Điều khoản dịch vụ
 
 **Cập nhật lần cuối:** 17/11/2026  
 
