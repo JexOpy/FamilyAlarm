@@ -1,0 +1,6 @@
+theme: jekyll-theme-primer
+title: Family Alarm
+description: Blog app Family Alarm
+markdown: kramdown
+kramdown:
+  input: GFM
