@@ -61,13 +61,13 @@ You agree not to:
 
 ## 7. Intellectual Property
 
-**Family Alarm** is **closed-source proprietary software**. All proprietary source code, visual assets, UI designs, custom graphics, brand marks, and the **Family Alarm** name are exclusively owned by **Jexopy** (excluding third-party open-source components governed by their respective licenses as detailed in [License & Attributions](./license-en.md)). Unauthorized copying, modification, or redistribution is prohibited.
+**Family Alarm** is **closed-source proprietary software**. All proprietary source code, visual assets, UI designs, custom graphics, brand marks, and the **Family Alarm** name are exclusively owned by **JexOpy** (excluding third-party open-source components governed by their respective licenses as detailed in [License & Attributions](./license-en.md)). Unauthorized copying, modification, or redistribution is prohibited.
 
 ---
 
 ## 8. Changes to Terms
 
-Jexopy may update these Terms of Service from time to time to reflect app updates or legal requirements. The "Last updated" date at the top indicates the latest revision. Continued use after updates constitutes acceptance of the revised Terms.
+JexOpy may update these Terms of Service from time to time to reflect app updates or legal requirements. The "Last updated" date at the top indicates the latest revision. Continued use after updates constitutes acceptance of the revised Terms.
 
 ---
 

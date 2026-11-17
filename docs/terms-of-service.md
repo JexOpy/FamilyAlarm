@@ -63,13 +63,13 @@ Khi sử dụng Family Alarm, bạn không được phép:
 
 ## 7. Quyền sở hữu trí tuệ
 
-**Family Alarm** là phần mềm **mã nguồn đóng (Closed Source)**. Toàn bộ giao diện, mã nguồn, biểu tượng, đồ họa minh họa, văn bản và tên gọi **Family Alarm** thuộc quyền sở hữu độc quyền của **Jexopy** (trừ các thư viện mã nguồn mở của bên thứ ba được sử dụng theo giấy phép hợp lệ liệt kê trong [Giấy phép sử dụng](./license.md)). Bạn không được sao chép, chỉnh sửa, dịch ngược, phân phối lại hoặc thương mại hóa trái phép bất kỳ thành phần độc quyền nào của Ứng dụng.
+**Family Alarm** là phần mềm **mã nguồn đóng (Closed Source)**. Toàn bộ giao diện, mã nguồn, biểu tượng, đồ họa minh họa, văn bản và tên gọi **Family Alarm** thuộc quyền sở hữu độc quyền của **JexOpy** (trừ các thư viện mã nguồn mở của bên thứ ba được sử dụng theo giấy phép hợp lệ liệt kê trong [Giấy phép sử dụng](./license.md)). Bạn không được sao chép, chỉnh sửa, dịch ngược, phân phối lại hoặc thương mại hóa trái phép bất kỳ thành phần độc quyền nào của Ứng dụng.
 
 ---
 
 ## 8. Thay đổi dịch vụ và Điều khoản
 
-Jexopy có thể cập nhật tính năng, giao diện hoặc nội dung Điều khoản dịch vụ này theo thời gian để phù hợp với quy định pháp luật hoặc bản cập nhật ứng dụng. Ngày cập nhật mới nhất sẽ luôn được hiển thị ở đầu tài liệu. Việc bạn tiếp tục sử dụng Ứng dụng sau khi Điều khoản có bản cập nhật đồng nghĩa với việc bạn chấp nhận các thay đổi đó.
+JexOpy có thể cập nhật tính năng, giao diện hoặc nội dung Điều khoản dịch vụ này theo thời gian để phù hợp với quy định pháp luật hoặc bản cập nhật ứng dụng. Ngày cập nhật mới nhất sẽ luôn được hiển thị ở đầu tài liệu. Việc bạn tiếp tục sử dụng Ứng dụng sau khi Điều khoản có bản cập nhật đồng nghĩa với việc bạn chấp nhận các thay đổi đó.
 
 ---
 

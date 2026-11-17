@@ -77,7 +77,7 @@ We **do not** sell, rent, or share user data with advertisers, data brokers, or 
 
 ## 6. User Rights & Control
 
-You can view and edit alarms/device roles inside the App, revoke any Android permission in **Settings → App Permissions** or system Settings, reset or leave a family group at any time, or contact `[support@yourdomain.com]` to request manual deletion of a family group record.
+You can view and edit alarms/device roles inside the App, revoke any Android permission in **Settings → App Permissions** or system Settings, reset or leave a family group at any time, or contact `superhien65@gmail.com` to request manual deletion of a family group record.
 
 ---
 
@@ -89,7 +89,7 @@ Family Alarm does not knowingly collect personally identifiable information from
 
 ## 8. Changes to This Policy
 
-Jexopy may update this Privacy Policy as the App evolves or to meet legal / Google Play requirements. Updates will be posted with a revised "Last updated" date.
+JexOpy may update this Privacy Policy as the App evolves or to meet legal / Google Play requirements. Updates will be posted with a revised "Last updated" date.
 
 ---
 

@@ -85,7 +85,7 @@ Bạn có toàn quyền kiểm soát dữ liệu của mình:
 - **Xem và chỉnh sửa:** Xem trực tiếp danh sách thiết bị đã liên kết, vai trò truy cập, các báo thức gia đình và báo thức riêng ngay trong Ứng dụng.
 - **Thu hồi quyền hệ thống:** Tắt bất kỳ quyền Android nào trong **Thiết đặt → Quyền ứng dụng** hoặc trong Cài đặt hệ thống của điện thoại.
 - **Xóa và ngắt kết nối:** Rời nhóm gia đình hoặc xóa thiết bị thành viên bất cứ lúc nào.
-- **Yêu cầu hỗ trợ / Xóa dữ liệu nhóm:** Nếu bạn muốn yêu cầu xóa hoàn toàn một `familyId` cũ trên máy chủ hoặc có thắc mắc về bảo mật, hãy gửi email tới `[email-ho-tro@tenmien.com]`.
+- **Yêu cầu hỗ trợ / Xóa dữ liệu nhóm:** Nếu bạn muốn yêu cầu xóa hoàn toàn một `familyId` cũ trên máy chủ hoặc có thắc mắc về bảo mật, hãy gửi email tới `superhien65@gmail.com`.
 
 ---
 
@@ -97,7 +97,7 @@ Family Alarm là công cụ báo thức dành cho hộ gia đình và không ch�
 
 ## 8. Thay đổi Chính sách Bảo mật
 
-Jexopy có thể cập nhật Chính sách Bảo mật này khi bổ sung tính năng mới hoặc theo yêu cầu pháp lý / Google Play. Phiên bản mới nhất sẽ được cập nhật kèm ngày hiệu lực ở phần đầu tài liệu.
+JexOpy có thể cập nhật Chính sách Bảo mật này khi bổ sung tính năng mới hoặc theo yêu cầu pháp lý / Google Play. Phiên bản mới nhất sẽ được cập nhật kèm ngày hiệu lực ở phần đầu tài liệu.
 
 ---
 
